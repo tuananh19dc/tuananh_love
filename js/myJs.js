@@ -6,7 +6,7 @@ const textConfig = {
   text5: "khồngg, em phải ở nhà học bài :333",
   text6: "ukii, chiến thuiii <333",
   text7: "thế đi chơi ở đâu ta",
-  text8: "Gửi cho tớ <3",
+  text8: "Gửi cho a đi <3",
   text9: "đi giải cứu mấy con hổ con",
   text10: "Chà chà, quá zdữ.... :))))",
   text11:
